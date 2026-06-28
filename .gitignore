@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+conda-meta/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Editors and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Experiment outputs
+runs/
+outputs/
+logs/
+wandb/
+mlruns/
+
+# Model artifacts
+*.ckpt
+*.pth
+*.pt
+*.onnx
+
+# Local data and checkpoints
+data/*
+!data/.gitignore
+checkpoints/*
+!checkpoints/.gitignore
+

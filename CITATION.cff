@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use CSWinUNETR, please cite the paper below."
+title: "CSWinUNETR: Segmentation of Thin Anatomical Structures in Medical Images"
+type: software
+authors:
+  - family-names: Moon
+    given-names: Junho
+  - family-names: Chung
+    given-names: Haejun
+  - family-names: Jang
+    given-names: Ikbeom
+repository-code: "https://github.com/labhai/CSWinUNETR"
+url: "https://arxiv.org/abs/2606.19824"
+abstract: "CSWinUNETR is a 2D/3D segmentation backbone for thin, tortuous anatomical structures in medical images."
+keywords:
+  - medical image segmentation
+  - thin structure segmentation
+  - CSWin Transformer
+  - dynamic snake convolution
+  - MICCAI
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Moon
+      given-names: Junho
+    - family-names: Chung
+      given-names: Haejun
+    - family-names: Jang
+      given-names: Ikbeom
+  title: "CSWinUNETR: Segmentation of Thin Anatomical Structures in Medical Images"
+  year: 2026
+  journal: "arXiv preprint arXiv:2606.19824"
+  doi: "10.48550/arXiv.2606.19824"
+  url: "https://arxiv.org/abs/2606.19824"
+
