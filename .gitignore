@@ -2,11 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.pytest_cache/
 .mypy_cache/
 .ruff_cache/
-.coverage
-htmlcov/
 
 # Environments
 .env
@@ -44,4 +41,3 @@ data/*
 !data/.gitignore
 checkpoints/*
 !checkpoints/.gitignore
-
