@@ -21,7 +21,7 @@ Official repository for the paper:
 > **[CSWinUNETR: Segmentation of Thin Anatomical Structures in Medical Images](https://doi.org/10.1007/978-3-032-38082-1_8)**<br>
 > MICCAI 2026<br>
 > Junho Moon, Haejun Chung, Ikbeom Jang<br>
-> ([arXiv ver](https://arxiv.org/abs/2606.19824))
+> ([MICCAI Open Access ver](https://papers.miccai.org/miccai-2026/paper/4831_paper.pdf) | [arXiv ver](https://arxiv.org/abs/2606.19824))
 
 ## Overview
 
