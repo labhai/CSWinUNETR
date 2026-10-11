@@ -18,7 +18,7 @@
 
 Official repository for the paper:
 
-> **[CSWinUNETR: Segmentation of Thin Anatomical Structures in Medical Images](https://arxiv.org/abs/2606.19824)**<br>
+> **[CSWinUNETR: Segmentation of Thin Anatomical Structures in Medical Images](https://doi.org/10.1007/978-3-032-38082-1_8)**<br>
 > MICCAI 2026<br>
 > Junho Moon, Haejun Chung, Ikbeom Jang<br>
 > ([arXiv ver](https://arxiv.org/abs/2606.19824))
@@ -168,11 +168,13 @@ preprocessed patches.
 If this work is useful for your research, please cite:
 
 ```bibtex
-@article{moon2026cswinunetr,
+@inproceedings{moon2026cswinunetr,
   title={CSWinUNETR: Segmentation of Thin Anatomical Structures in Medical Images},
   author={Moon, Junho and Chung, Haejun and Jang, Ikbeom},
-  journal={arXiv preprint arXiv:2606.19824},
-  year={2026}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={79--89},
+  year={2026},
+  organization={Springer}
 }
 ```
 
